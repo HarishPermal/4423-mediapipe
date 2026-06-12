@@ -1,0 +1,8 @@
+services:
+  model-maker:
+    build:
+      context: .
+    environment:
+      TF_CPP_MIN_LOG_LEVEL: "2"
+    volumes:
+      - ./verify.py:/workspace/verify.py:ro
