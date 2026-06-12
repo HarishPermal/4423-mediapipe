@@ -1,0 +1,9 @@
+mediapipe-model-maker==0.2.1.4
+Pillow==10.4.0
+mediapipe==0.10.10
+tensorflow-datasets==4.9.3
+tensorflow-metadata==1.14.0
+protobuf==3.20.3
+google-api-core==2.11.1
+googleapis-common-protos==1.60.0
+proto-plus==1.22.3
